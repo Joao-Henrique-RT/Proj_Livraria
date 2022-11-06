@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+.box{
+    float: left;
+    border: solid black 2px;
+    width: 300px;
+    height: 300px;
+    margin: 5px;
+}

@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    border: none;
+}
+
+#form-cad-livro{
+    margin: 80px;
+
+}
+
+#form-cad-livro legend{
+    margin-top: 100px;
+}
+
+#form-cad-livro p{
+    margin: 40px 0px 5px 500px;
+}
+
+
+#form-cad-livro form input{
+    margin: 0px 0px 0px 500px;
+    border: solid 1px #ced1c0;
+    padding: 30px 250px 10px 5px;
+    margin-top: 10px;
+    
+}
+
+#form-cad-livro form input[type=submit]{
+    text-align: center;
+    padding: 20px 200px;
+
+}

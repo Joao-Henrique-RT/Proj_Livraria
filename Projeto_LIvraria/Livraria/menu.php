@@ -1,15 +1,15 @@
+
+<ul>
+<a href="listar.php">Listar</a>
+<a href="cad_livro.php">Incluir</a>
+<a href="###">Entrar</a>
+
+</ul>
+
 <?php
+//CONCLUÍDO:
+//INCLUIR (Faltando adicionar uma foto)
 
-echo("Menu principal");
-
-INSERT INTO `tb_livraria` (`Codigo`, `Nome_Usuario`, `Email`, `Senha`, `Nome_Livro`, `Autor_Livro`, `Preco`, `foto`) VALUES (NULL, '$nome_usuario', '$email', '', '$nome_livro', '$autor_livro', '', '$foto');
-
-
-
-
-
-
-
-
-
+//FALTA:
+//ALTERAR, EXCLUIR, ENTRAR COMO ADM. 
 ?>
